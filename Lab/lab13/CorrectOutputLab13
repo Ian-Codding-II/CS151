@@ -1,0 +1,13 @@
+In order: 20 25 30 40 50 60 70 75 80 
+In order: 20 25 30 40 50 60 70 75 80 
+Level order: 50 30 70 20 40 60 75 25 80 
+search for 85: 0
+searchR for 85: 0
+search for 25: 1
+searchR for 25: 1
+the max value in the tree: 75
+the min value in the tree: 20
+In order: 25 30 40 60 75 80 
+In order: 25 30 40 60 75 80 
+Level order: 60 30 75 25 40 80 
+Level order: 60 30 75 25 40 80 

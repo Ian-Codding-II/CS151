@@ -1,0 +1,72 @@
+Insert 10
+The height of the tree is 0
+Level order: 10 
+In-order: 10 
+Pre-order: 10 
+Post-order: 10 
+Insert 12
+The height of the tree is 1
+Level order: 10 12 
+In-order: 10 12 
+Pre-order: 10 12 
+Post-order: 12 10 
+Insert 15
+The height of the tree is 1
+Level order: 12 10 15 
+In-order: 10 12 15 
+Pre-order: 12 10 15 
+Post-order: 10 15 12 
+Insert 20
+The height of the tree is 2
+Level order: 12 10 15 20 
+In-order: 10 12 15 20 
+Pre-order: 12 10 15 20 
+Post-order: 10 20 15 12 
+Insert 16
+The height of the tree is 2
+Level order: 12 10 16 15 20 
+In-order: 10 12 15 16 20 
+Pre-order: 12 10 16 15 20 
+Post-order: 10 15 20 16 12 
+Insert 13
+The height of the tree is 2
+Level order: 15 12 16 10 13 20 
+In-order: 10 12 13 15 16 20 
+Pre-order: 15 12 10 13 16 20 
+Post-order: 10 13 12 20 16 15 
+Insert 7
+The height of the tree is 3
+Level order: 15 12 16 10 13 20 7 
+In-order: 7 10 12 13 15 16 20 
+Pre-order: 15 12 10 7 13 16 20 
+Post-order: 7 10 13 12 20 16 15 
+Insert 3
+The height of the tree is 3
+Level order: 15 12 16 7 13 20 3 10 
+In-order: 3 7 10 12 13 15 16 20 
+Pre-order: 15 12 7 3 10 13 16 20 
+Post-order: 3 10 7 13 12 20 16 15 
+Insert 9
+The height of the tree is 3
+Level order: 15 10 16 7 12 20 3 9 13 
+In-order: 3 7 9 10 12 13 15 16 20 
+Pre-order: 15 10 7 3 9 12 13 16 20 
+Post-order: 3 9 7 13 12 10 20 16 15 
+Removing 13...
+The height of the tree is 3
+Level order: 15 10 16 7 12 20 3 9 
+In-order: 3 7 9 10 12 15 16 20 
+Pre-order: 15 10 7 3 9 12 16 20 
+Post-order: 3 9 7 12 10 20 16 15 
+Removing 10...
+The height of the tree is 3
+Level order: 15 7 16 3 12 20 9 
+In-order: 3 7 9 12 15 16 20 
+Pre-order: 15 7 3 12 9 16 20 
+Post-order: 3 9 12 7 20 16 15 
+Removing 7...
+The height of the tree is 2
+Level order: 15 9 16 3 12 20 
+In-order: 3 9 12 15 16 20 
+Pre-order: 15 9 3 12 16 20 
+Post-order: 3 12 9 20 16 15 

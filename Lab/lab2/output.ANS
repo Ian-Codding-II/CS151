@@ -1,0 +1,93 @@
+***********Books currently at the library:***************
+Title: The Adventures of Tom Sawyer
+Author: Mark Twain
+Quantity: 4
+
+Title: A Game of Thrones: A Song of Ice and Fire
+Author: George R.R. Martin
+Quantity: 1
+
+Title: The Call of the Wild
+Author: Jack London
+Quantity: 4
+
+Adding Tom as a customer...
+Adding Tom as a customer again...
+Customer with this name already exist. 
+Your ID is 590011677
+
+###############Tom is getting books...##################
+A Game of Thrones: A Song of Ice and Fire...
+A Game of Thrones: A Song of Ice and Fire...again...
+A Game of Thrones: A Song of Ice and Fire is not available
+The Adventures of Tom Sawyer...
+White Fang...
+White Fang is not available
+
+################List of Tom's books:####################
+Title: A Game of Thrones: A Song of Ice and Fire
+   Author: George R.R. Martin
+Title: The Adventures of Tom Sawyer
+   Author: Mark Twain
+
+***********Books currently at the library:***************
+Title: The Adventures of Tom Sawyer
+Author: Mark Twain
+Quantity: 3
+
+Title: A Game of Thrones: A Song of Ice and Fire
+Author: George R.R. Martin
+Quantity: 0
+
+Title: The Call of the Wild
+Author: Jack London
+Quantity: 4
+
+Adding Sam as a customer...
+
+###############Sam is getting books...##################
+A Game of Thrones: A Song of Ice and Fire...
+A Game of Thrones: A Song of Ice and Fire is not available
+The Adventures of Tom Sawyer...
+
+################List of Sams's books:####################
+Title: The Adventures of Tom Sawyer
+   Author: Mark Twain
+
+***********Books currently at the library:***************
+Title: The Adventures of Tom Sawyer
+Author: Mark Twain
+Quantity: 2
+
+Title: A Game of Thrones: A Song of Ice and Fire
+Author: George R.R. Martin
+Quantity: 0
+
+Title: The Call of the Wild
+Author: Jack London
+Quantity: 4
+
+
+###############Tom is returning books...##################
+A Game of Thrones: A Song of Ice and Fire...
+A Game of Thrones: A Song of Ice and Fire...again...
+Tom Cook does not have A Game of Thrones: A Song of Ice and Fire
+White Fang...
+White Fang is from a different library
+
+################List of Tom's books:####################
+Title: The Adventures of Tom Sawyer
+   Author: Mark Twain
+
+***********Books currently at the library:***************
+Title: The Adventures of Tom Sawyer
+Author: Mark Twain
+Quantity: 2
+
+Title: A Game of Thrones: A Song of Ice and Fire
+Author: George R.R. Martin
+Quantity: 1
+
+Title: The Call of the Wild
+Author: Jack London
+Quantity: 4
