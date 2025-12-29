@@ -1,0 +1,32 @@
+/**
+ * @file    animated_object.h
+ * @author  Balin Becker, Ian Codding II, Roman Salazar
+ * @brief   Collision Object but with animated sprites
+ * @date    2025-11-24
+ */
+
+#ifndef ANIMATED_OBJECT_H
+#define ANIMATED_OBJECT_H
+
+#include "collision_object.h"
+
+/**
+ * @class animation object
+ *
+ * @brief For centipede and player animation
+ * 
+ */
+class anim_obj : public c_obj {
+public:
+    anim_obj(sf::Texture& texture, sf::IntRect StartFrame, int frames, std::string name);
+    void update(float deltaTime);
+private:
+    sf::Vector2f mPos;
+    sf::Vector2f mSize;
+    int mFrames, frameCount = 0;
+
+    const float fps = 0.15;
+    float totalElapsed = 0.0;
+};
+
+#endif
