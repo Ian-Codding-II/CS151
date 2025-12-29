@@ -1,2 +1,2 @@
-# CS 151
+# CS151
 Semester 3 coding projects.
